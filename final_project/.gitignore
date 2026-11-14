@@ -1,0 +1,14 @@
+node_modules/
+cookies.txt
+registration.json
+review.json
+githubrepo
+getallbooks
+getbooksbyISBN
+getbooksbyauthor
+getbooksbytitle
+getbookreview
+register
+login
+reviewadded
+deletereview
